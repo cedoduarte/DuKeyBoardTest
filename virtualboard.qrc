@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>decrypted.png</file>
+        <file>editcopy.png</file>
+        <file>editcut.png</file>
+        <file>editpaste.png</file>
+        <file>encrypted.png</file>
+        <file>keyboard.png</file>
+    </qresource>
+</RCC>
